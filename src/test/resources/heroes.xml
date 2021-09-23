@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Heroes>
+    <Hero id="1">
+        <Name>Spiderman</Name>
+        <Address>New York</Address>
+    </Hero>
+    <Hero id="2">
+        <Name>Black Panther</Name>
+        <Address>Wakanda</Address>
+    </Hero>
+    <Hero id="3">
+        <Name>Black Panther</Name>
+        <Address>Asgard</Address>
+    </Hero>
+</Heroes>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<products>
+    <header>
+        <count>12</count>
+        <total>78</total>
+    </header>
+    <items>
+        <item>
+            <name>Product 11</name>
+            <price>1</price>
+        </item>
+        <item>
+            <name>Product 12</name>
+            <price>2</price>
+        </item>
+        <item>
+            <name>Product 13</name>
+            <price>3</price>
+        </item>
+    </items>
+
+    <test>Just a non used tag</test>
+
+    <items>
+        <item>
+            <name>Product 21</name>
+            <price>4</price>
+        </item>
+        <item>
+            <name>Product 22</name>
+            <price>5</price>
+        </item>
+        <item>
+            <name>Product 23</name>
+            <price>6</price>
+        </item>
+        <item>
+            <name>Product 24</name>
+            <price>7</price>
+        </item>
+    </items>
+
+    <items>
+        <item>
+            <name>Product 31</name>
+            <price>8</price>
+        </item>
+        <item>
+            <name>Product 32</name>
+            <price>9</price>
+        </item>
+        <item>
+            <name>Product 33</name>
+            <price>10</price>
+        </item>
+        <item>
+            <name>Product 34</name>
+            <price>11</price>
+        </item>
+        <item>
+            <name>Product 35</name>
+            <price>12</price>
+        </item>
+    </items>
+</products>

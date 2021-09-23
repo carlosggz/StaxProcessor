@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<products>
+    <header>
+        <count>5</count>
+        <total>75</total>
+    </header>
+    <items>
+        <item>
+            <name>Product 1</name>
+            <price>5</price>
+        </item>
+        <item>
+            <name>Product 2</name>
+            <price>10</price>
+        </item>
+        <item>
+            <name>Product 3</name>
+            <price>15</price>
+        </item>
+        <item>
+            <name>Product 4</name>
+            <price>20</price>
+        </item>
+        <item>
+            <name>Product 5</name>
+            <price>25</price>
+        </item>
+    </items>
+</products>
